@@ -1,0 +1,23 @@
+{
+  "name": "nodemailer",
+  "version": "1.0.0",
+  "description": "playing with Nodemailer",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virgili23/Nodemailer.git"
+  },
+  "keywords": [
+    "nodemailer"
+  ],
+  "author": "Virgil Baez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/virgili23/Nodemailer/issues"
+  },
+  "homepage": "https://github.com/virgili23/Nodemailer#readme"
+}
